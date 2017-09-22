@@ -1,1 +1,2 @@
-1. Update URL on content change... and add it to history
+1. Refreshing Hash Link
+2. Loading Button
